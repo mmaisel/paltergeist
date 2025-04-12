@@ -1,0 +1,7 @@
+name: pg
+description: Paltergeist Deception-based Detections from Traps.
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go
